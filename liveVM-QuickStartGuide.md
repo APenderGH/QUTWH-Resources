@@ -1,5 +1,7 @@
 # Get started with a live boot Kali machine
-A live boot machine is volatile. This means when you power it off nothing is saved, this method isn't a long term solution but it gets you set up with a preconfigured and temporary Virtual Machinem, perfect for short demos.
+A live boot machine is volatile. This means when you power it off nothing is saved.
+
+This method isn't a long term solution but it gets you set up with a preconfigured and temporary Virtual Machine, perfect for short demos.
 DISCLAIMER: This guide is for a Windows host, if you're on linux or mac things might be slightly different for you.
 
 1. Download and install VMware Workstation
