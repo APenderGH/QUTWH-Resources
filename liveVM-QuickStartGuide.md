@@ -1,8 +1,9 @@
 # Get started with a live boot Kali machine
-A live boot machine is volatile. This means when you power it off nothing is saved.
+A live boot machine is **volatile**. This means when you power it off nothing is saved.
 
 This method isn't a long term solution but it gets you set up with a preconfigured and temporary Virtual Machine, perfect for short demos.
-DISCLAIMER: This guide is for a Windows host, if you're on linux or mac things might be slightly different for you.
+
+**DISCLAIMER: This guide is for a Windows host, if you're on linux or mac things might be slightly different for you.**
 
 1. Download and install VMware Workstation
 2. Download the .zip file from here, this contains the Kali image
@@ -13,6 +14,6 @@ DISCLAIMER: This guide is for a Windows host, if you're on linux or mac things m
 7. Ensure the Allocated Memory/RAM is ~2GB
 8. Power on the virtual machine
 9. Boot with QUTWH GUI (press enter)
-10. Login, username and password are both 'qutwh'
+10. Login, username and password are both '**qutwh**'
 
 DM me at APender#4176 on discord if there's any issues.
